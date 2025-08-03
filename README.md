@@ -40,3 +40,8 @@ Topic:Advised students to stay updated with emerging tech and start building pra
 ## Causmic club
 ### Topic:Induction activities. 
 # Day 3 
+## 9:00 to 1:00 Auditorium 
+## Dr.Jaswinder Singh(incharge IAPT)
+### Topic:they give us information about math and science involve in everything and everywhere sorrounded us.
+## Dr.Priya Dashni madam 
+### Topic:Tell us about "Universal human values" are equally important with formal education. 
