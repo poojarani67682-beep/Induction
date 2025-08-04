@@ -1,4 +1,4 @@
-Induction
+#Induction
 ## Day 1(31-07-2025)
 # 8:30 to 9:30 gurdwara sahib 
 # 9:30 to 10:30 tea and snacks 
@@ -44,4 +44,13 @@ Topic:Advised students to stay updated with emerging tech and start building pra
 ## Dr.Jaswinder Singh(incharge IAPT)
 ### Topic:they give us information about math and science involve in everything and everywhere sorrounded us.
 ## Dr.Priya Dashni madam 
-### Topic:Tell us about "Universal human values" are equally important with formal education. 
+### Topic:Tell us about "Universal human values" are equally important with formal education.
+# Day 4 
+## 9:30 to 10:30 chemistry lecture by Prof.Rajvir kaur 
+## 10:30 to 11:30 P2P lecture for C++ programming language by seniors 
+# 11:30 to 12:30 break 
+## 12:30 to 3:30 Auditorium 
+## Dr.Priya Dashni madam
+### Topic:Tell us about "Universal human values-2" are equally important with formal education. 
+## causmic club introduced by senoirs .
+
