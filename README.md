@@ -30,7 +30,7 @@ Topic:Advised students to stay updated with emerging tech and start building pra
 ### Topic: shared inspiring college ,memories and career journey.
 # Mr.Ashok Singla Sir -Finance officer
 ### Topic:Provided insights on educational loans, finacial planning and how to avail government schemes.
-# Day 2
+# Day 2(01-08-2025)
 ### 9:30 to 10:30 English proficiency test 
 ### 10:30 to 11:30 Math proficiency test 
 ## 11:30 to 1:00 break
@@ -39,13 +39,13 @@ Topic:Advised students to stay updated with emerging tech and start building pra
 ### Topic:"Food:A Pivotal Role in Student's Overall wellness".
 ## Causmic club
 ### Topic:Induction activities. 
-# Day 3 
+# Day 3(02-08-2025)
 ## 9:00 to 1:00 Auditorium 
 ## Dr.Jaswinder Singh(incharge IAPT)
 ### Topic:they give us information about math and science involve in everything and everywhere sorrounded us.
 ## Dr.Priya Dashni madam 
 ### Topic:Tell us about "Universal human values" are equally important with formal education.
-# Day 4 
+# Day 4(04-08-2025)
 ## 9:30 to 10:30 chemistry lecture by Prof.Rajvir kaur 
 ## 10:30 to 11:30 P2P lecture for C++ programming language by seniors 
 # 11:30 to 12:30 break 
