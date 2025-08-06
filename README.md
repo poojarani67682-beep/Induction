@@ -53,7 +53,12 @@ Topic:Advised students to stay updated with emerging tech and start building pra
 ## Dr.Priya Dashni madam
 ### Topic:Tell us about "Universal human values-2" are equally important with formal education. 
 ## causmic club introduced by senoirs .
-# Day 5
+# Day 5(05-08-2025)
 ## 9:30 to 10:30 Professional English Communication lecture by Prof.Manjot kaur.
 ## 10:30 to 11:30 Math lecture by Prof.Rajbir kaur.
 ## 11:30 to 12:30 BEEE lecture by Prof.Mandeep kaur
+# Day 6(06-08-2025)
+## 9:30 to 10:30 P2P lecture for C++ programming language by seniors.
+## 10:30 to 11:30 lecture by Prof.Jaswant singh.
+## 11:30 to 12:30 break
+## 12:30 to 2:00 
