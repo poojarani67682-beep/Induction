@@ -61,4 +61,7 @@ Topic:Advised students to stay updated with emerging tech and start building pra
 ## 9:30 to 10:30 P2P lecture for C++ programming language by seniors.
 ## 10:30 to 11:30 lecture by Prof.Jaswant singh.
 ## 11:30 to 12:30 break
-## 12:30 to 2:00 
+## 12:30 to 4:00 Auditorium 
+### 12:30 to 2:00 lecture by Dr.Arvind Dhingra (Director STEP  and Inxgarge TAC).
+### 2:00 to 3:00 lecture by Mr.Jasvir Singh Sekhon(District Resource person-STEM).
+### 3:00 to 4:00 lecutre by Dr.Lakhvir Singh Khana(Incharge-CML).
