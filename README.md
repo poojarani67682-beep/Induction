@@ -1,4 +1,9 @@
-#Induction
+# Induction
+# Name-pooja
+# Branch-CSE
+# Father's name-Krishan kumar
+# Registran no.-25104171
+# Mobile no.-7814851435
 ## Day 1(31-07-2025)
 # 8:30 to 9:30 gurdwara sahib 
 # 9:30 to 10:30 tea and snacks 
