@@ -65,3 +65,11 @@ Topic:Advised students to stay updated with emerging tech and start building pra
 ### 12:30 to 2:00 lecture by Dr.Arvind Dhingra (Director STEP  and Inxgarge TAC).
 ### 2:00 to 3:00 lecture by Mr.Jasvir Singh Sekhon(District Resource person-STEM).
 ### 3:00 to 4:00 lecutre by Dr.Lakhvir Singh Khana(Incharge-CML).
+# Day 7(07-08-2025)
+## 9:30 to 10:30 lecture by Dr.Parminder singh ( Dean - Student welfare ).
+## 10:30 to 11:30 lecture by amit kamra (Incharge - DMC).
+## 11:30 to 12:30 lecture by Dr.Ranvir singh 
+### Topic- "Conduct on examination".
+## 12:30 to 1:30 break 
+## 1:30 to 2:30 Prof.Mandeep kaur lecture by BEEE .
+## 2:30 to 3:00 Id card formation .
